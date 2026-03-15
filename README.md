@@ -139,7 +139,3 @@ Jira_updater/
 ├── HOWTO.md              # Detailed usage guide
 └── .env.example          # Example environment variables
 ```
-
-## License
-
-MIT License - See LICENSE file for details
