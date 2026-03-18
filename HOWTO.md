@@ -38,12 +38,12 @@ JIRA_API_TOKEN=your_jira_api_token
 3. Select scopes:
    - `repo` - Full control of private repositories
    - `read:org` - Read org and team membership
-4. Copy the token (starts with `ghp_`)
+4. Copy the token (starts with `github_pat`)
 
 #### Jira API Token
 
-1. Go to <https://id.atlassian.com/manage-profile/security/api-tokens>
-2. Click "Create API token"
+1. Go to your Atlassian Cloud account's Security tab: <https://id.atlassian.com/manage-profile/security> (VPN required)
+2. Follow the prompts on that screen to generate your token
 3. Give it a label (e.g., "PR-to-Jira Tool")
 4. Copy the token
 
